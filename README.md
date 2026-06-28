@@ -82,7 +82,3 @@ Excellent! Your password follows good security practices.
 **Bhavana SA**
 
 **B.Sc. Cyber Security**
-
----
-
-⭐ If you found this project useful, consider giving it a star on GitHub.
